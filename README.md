@@ -41,7 +41,7 @@ https://github.com/itzMonisha/SIH26245-Training-Centre-Monitoring-System
 
 ## Problem Solving
 
-- LeetCode: 400+ problems solved
+- LeetCode: 600+ problems solved
 - Focus areas: Arrays, strings, linked lists, trees, graphs and dynamic programming
 
 [LeetCode Profile]https://leetcode.com/u/Moni_766/
