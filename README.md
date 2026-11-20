@@ -15,19 +15,19 @@ I'm a CSE student interested in backend development, problem-solving, and buildi
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp, java, python, js)](https://skillicons.dev)
 
 ### 🎨 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html, css, react)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github, vscode, docker, postman)](https://skillicons.dev)
 
 
 ## Featured Projects
