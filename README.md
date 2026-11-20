@@ -11,17 +11,24 @@ I'm a CSE student interested in backend development, problem-solving, and buildi
 - 🚀 Learning software engineering practices, testing, and system design
 - 🎯 Preparing for SDE internships and graduate software engineering roles
 
-## Technical Skills
 
-**Languages:** C++, Java, Python, JavaScript
+## 🛠️ Technical Skills
 
-**Backend:** Spring Boot, Spring Security, REST APIs, JWT
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js)](https://skillicons.dev)
 
-**Frontend:** React, HTML, CSS, JavaScript
+### 🎨 Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)](https://skillicons.dev)
 
-**Databases:** MySQL, MongoDB
+### ⚙️ Backend Development
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express)](https://skillicons.dev)
 
-**Tools:** Git, GitHub, Postman, Docker
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,postman)](https://skillicons.dev)
+
 
 ## Featured Projects
 
