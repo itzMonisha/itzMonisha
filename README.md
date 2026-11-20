@@ -15,10 +15,10 @@ I'm a CSE student interested in backend development, problem-solving, and buildi
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp, java, python, js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js)](https://skillicons.dev)
 
 ### 🎨 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html, css, react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
